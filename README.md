@@ -66,14 +66,19 @@ Para llevar a cabo este proyecto se uso:
  -Backend [PHP] (https://www.php.net/)
  -Frontend HTML5 - CSS3 - JAVASCRIPT
  -Librerias
+ -Se uno Modelo Vista Controlador (MVC) para que el proyecto puedo ser escalable.
+ 
+ # Licencia 
+ Este proyecto es material netamente educativo. Podras realizar las modificaciones para mejorar
+ las funcionalidades del proyecto.
  
  # Insentivo al Proyecto
- -Comenta a otros sobre este proyecto 📢
- -Invitame una cerveza 🍺 o un café ☕.
- -Dar las gracias públicamente 🤓.
+-Comenta a otros sobre este proyecto 📢.
+-Invitame una cerveza 🍺 o un café ☕.
+-Dar las gracias públicamente 🤓.
  
  
- Hasta la proxima hecho [por] (https://github.com/Nnado91)
+ Hasta la proxima hecho [por] __Jefferson Burbano__ (https://github.com/Nnado91)
  
  
 
