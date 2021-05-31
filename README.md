@@ -1,11 +1,11 @@
-#PORTFOLIO DINAMICO
+# PORTFOLIO DINAMICO
 
-##_ Descripción del Proyecto
+## Descripción del Proyecto
 Este mini proyecto  es un portafolio web dinamico para freelance, emprendedores o  desarrolladores  junior
 que desean tener su portafolio  web y dar a conocer sus habilidades. Esto proyecto lo realice  para  una
 tarea de finalizacion de curso de Programacion Web PHP  en la Institucion Polotic Misiones.
 
-##_Requisitos
+# Requisitos
 
 -  Utilizar un Editor de Codigo como Visual Code o Sublime Text.
 - Utilice librerias para dar animacion al proyecto.
@@ -14,14 +14,14 @@ tarea de finalizacion de curso de Programacion Web PHP  en la Institucion Poloti
   -Muuri  [enlace](https://cdn.jsdelivr.net/npm/muuri@0.9.4/dist/muuri.min.js)
 
 
-##_Pre-instalación
+# Pre-instalación
 
 1. Descargar el proyecto completo del repositorio.
 2.  Descomprimir el archivo 
 3. Copiar el archivo descomprimido en la ruta: C:\xampp\htdocs
 4. Vamos a una navegador de preferencia Google Chrome y ponemos la siguiete url:  __localhost/nombreproyecto/__
 
-##_ Creacion  Base de datos 
+# Creacion  Base de datos 
 Se creo una base de datos portafolio  para ser dinamico el sistema web, el cual podemos modificar directamente desde la base de datos
 de mysql y editar la plantilla.
 
@@ -37,7 +37,7 @@ cambiar dicho nombre base de datos)
   - redes_sociales
   - Servicio
 
-##_Conexion Base de Datos
+## Conexion Base de Datos
 Para conectar la BD portafolio se debe revisar en la carpeta modelo/conexion.php.
 En este archivo esta la configuracion de los parametros para hacer la conexion.
 ```
@@ -58,7 +58,7 @@ $host = 'localhost'; // Aqui se ubica la url del dominio o el localhost si estas
   }
 ```
 
-##Herramientas 
+# Herramientas 
 Para llevar a cabo este proyecto se uso:
 - IDE Visual Code
 -Servidor XAMPP
@@ -67,7 +67,7 @@ Para llevar a cabo este proyecto se uso:
  -Frontend HTML5 - CSS3 - JAVASCRIPT
  -Librerias
  
- ##Insentivo al Proyecto
+ # Insentivo al Proyecto
  -Comenta a otros sobre este proyecto 📢
  -Invitame una cerveza 🍺 o un café ☕.
  -Dar las gracias públicamente 🤓.
