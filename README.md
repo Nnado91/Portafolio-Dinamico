@@ -1,4 +1,4 @@
-# PORTFOLIO DINAMICO
+# PORTAFOLIO DINAMICO
 
 ## Descripción del Proyecto
 Este mini proyecto  es un portafolio web dinamico para freelance, emprendedores o  desarrolladores  junior
