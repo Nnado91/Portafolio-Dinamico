@@ -11,7 +11,7 @@ tarea de finalizacion de curso de Programacion Web PHP  en la Institucion Poloti
 - Utilice librerias para dar animacion al proyecto.
   -  FontAwenson  [enlace](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css)
   -  OwlCarousel2  [enlace](https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css)
-  -Muuri  [enlace](https://cdn.jsdelivr.net/npm/muuri@0.9.4/dist/muuri.min.js)
+  -  Muuri  [enlace](https://cdn.jsdelivr.net/npm/muuri@0.9.4/dist/muuri.min.js)
 
 
 # Pre-instalación
