@@ -73,9 +73,9 @@ Para llevar a cabo este proyecto se uso:
  las funcionalidades del proyecto.
  
  # Insentivo al Proyecto
--Comenta a otros sobre este proyecto 📢.
--Invitame una cerveza 🍺 o un café ☕.
--Dar las gracias públicamente 🤓.
+- Comenta a otros sobre este proyecto 📢.
+- Invitame una cerveza 🍺 o un café ☕.
+- Dar las gracias públicamente 🤓.
  
  
  Hasta la proxima hecho [por] __Jefferson Burbano__ (https://github.com/Nnado91)
