@@ -61,12 +61,12 @@ $host = 'localhost'; // Aqui se ubica la url del dominio o el localhost si estas
 # Herramientas 
 Para llevar a cabo este proyecto se uso:
 - IDE Visual Code
--Servidor XAMPP
--Tecnologías:
- -Backend [PHP] (https://www.php.net/)
- -Frontend HTML5 - CSS3 - JAVASCRIPT
- -Librerias
- -Se uno Modelo Vista Controlador (MVC) para que el proyecto puedo ser escalable.
+- Servidor XAMPP
+- Tecnologías:
+ - Backend [PHP] (https://www.php.net/)
+ - Frontend HTML5 - CSS3 - JAVASCRIPT
+ - Librerias
+ - Se uno Modelo Vista Controlador (MVC) para que el proyecto puedo ser escalable.
  
  # Licencia 
  Este proyecto es material netamente educativo. Podras realizar las modificaciones para mejorar
