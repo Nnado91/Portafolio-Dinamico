@@ -66,7 +66,7 @@ Para llevar a cabo este proyecto se uso:
  - Backend [PHP] (https://www.php.net/)
  - Frontend HTML5 - CSS3 - JAVASCRIPT
  - Librerias
- - Se uno Modelo Vista Controlador (MVC) para que el proyecto puedo ser escalable.
+ - Se uso Modelo Vista Controlador (MVC) para que el proyecto puedo ser escalable.
  
  # Licencia 
  Este proyecto es material netamente educativo. Podras realizar las modificaciones para mejorar
